@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'DINCondRegular';
+    src: url('DINCondRegular.eot');
+    src: url('DINCondRegular.eot') format('embedded-opentype'),
+         url('DINCondRegular.woff2') format('woff2'),
+         url('DINCondRegular.woff') format('woff'),
+         url('DINCondRegular.ttf') format('truetype'),
+         url('DINCondRegular.svg#DINCondRegular') format('svg');
+}

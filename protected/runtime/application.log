@@ -1,0 +1,1335 @@
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/jquery.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/jquery.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/jquery.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:42:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:43:30 [error] [exception.CException] exception 'CException' with message 'RegisterController cannot find the requested view "index2".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php:878
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(782): CController->renderPartial('index2', NULL, true)
+#1 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php(7): CController->render('index2')
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): RegisterController->actionIndex()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('register')
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/jquery.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+---
+2015/01/23 12:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/jquery.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+---
+2015/01/23 12:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+---
+2015/01/23 12:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+---
+2015/01/23 12:45:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+---
+2015/01/23 12:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/01/23 12:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/jquery.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/jquery.min.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/jquery.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap-theme.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap-t...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap-theme.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/bootstrap.min.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/bootstrap.mi...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/script.js".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('js/script.js')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/js/script.js
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "fonts/custom-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('fonts/custom-fo...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/fonts/custom-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/bootstrap.min.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/bootstrap.m...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/style.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/style.css')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/style.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "css/social-icon-font.css".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('css/social-icon...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/css/social-icon-font.css
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo2.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo2.pn...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo2.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 12:49:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/logo.png".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('images/logo.png')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/index.php/images/logo.png
+HTTP_REFERER=http://localhost/unity/index.php/register
+---
+2015/01/23 18:46:15 [error] [php] Undefined variable: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:59)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (59)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 18:51:06 [error] [php] Undefined index: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:56)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (56)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 18:53:02 [error] [php] Undefined index: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:56)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (56)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 18:54:27 [error] [php] Undefined index: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:56)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (56)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 18:55:42 [error] [php] Undefined index: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:56)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (56)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 18:55:58 [error] [php] Undefined index: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:56)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (56)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 18:57:08 [error] [php] Undefined index: fname (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:56)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/index.php/register/register
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (56)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 19:02:20 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,at_time) values (  "a","a","a","a",NOW().
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (59)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 19:02:20 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,at_time) values (  "a","a","a","a",NOW()' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php(59): CDbCommand->execute()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): RegisterController->actionRegister()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('register')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('register/regist...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/unity/register/register/
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/01/23 19:03:07 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,at_time) values (  "a","a","a","a",NOW().
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (59)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 19:03:07 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,at_time) values (  "a","a","a","a",NOW()' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php(59): CDbCommand->execute()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): RegisterController->actionRegister()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('register')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('register/regist...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/unity/register/register/
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/01/23 19:47:43 [error] [php] Undefined index: fid (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:73)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/register/getUserJson
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (73)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/01/23 19:47:55 [error] [php] Array to string conversion (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:74)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/register/getUserJson
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (74)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/05/05 13:46:37 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "order".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php(95): CComponent->__call('order', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php(95): CDbCriteria->order(' at_time DESC')
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/views/mcUsers/admin.php(41): McUsers->search()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(869): CBaseController->renderFile('/Applications/X...', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(782): CController->renderPartial('admin', Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/McUsersController.php(143): CController->render('admin', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): McUsersController->actionAdmin()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('admin')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('mcUsers/admin')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/unity/mcUsers/admin
+---
+2015/05/05 13:46:48 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "sort".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php(95): CComponent->__call('sort', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php(95): CDbCriteria->sort(' at_time DESC')
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/views/mcUsers/admin.php(41): McUsers->search()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(869): CBaseController->renderFile('/Applications/X...', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(782): CController->renderPartial('admin', Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/McUsersController.php(143): CController->render('admin', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): McUsersController->actionAdmin()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('admin')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('mcUsers/admin')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/unity/mcUsers/admin
+---
+2015/05/05 13:52:45 [error] [php] Undefined variable: critera (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php:95)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): McUsersController->renderInternal()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(869): McUsersController->renderFile()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(782): McUsersController->renderPartial()
+#3 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/McUsersController.php(143): McUsersController->render()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): McUsersController->actionAdmin()
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): McUsersController->runAction()
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): McUsersController->runActionWithFilters()
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): McUsersController->run()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/mcUsers/admin
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php (95)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/views/mcUsers/admin.php (41)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/McUsersController.php (143)
+2015/05/05 13:52:55 [error] [exception.CException] exception 'CException' with message 'CDbCriteria and its behaviors do not have a method or closure named "order".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CComponent.php:266
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php(95): CComponent->__call('order', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/models/McUsers.php(95): CDbCriteria->order(' at_time desc ')
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/views/mcUsers/admin.php(41): McUsers->search()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(126): require('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/Applications/X...', Array, true)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(869): CBaseController->renderFile('/Applications/X...', Array, true)
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(782): CController->renderPartial('admin', Array, true)
+#7 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/McUsersController.php(143): CController->render('admin', Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): McUsersController->actionAdmin()
+#9 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#10 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#11 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('admin')
+#13 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('mcUsers/admin')
+#14 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/unity/mcUsers/admin
+---
+2015/05/11 15:05:44 [error] [php] Undefined index: allow (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:59)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/register/register/
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (59)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/05/11 15:05:56 [error] [php] Undefined index: allow (/Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php:59)
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): RegisterController->runAction()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): RegisterController->runActionWithFilters()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): RegisterController->run()
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CWebApplication->run()
+REQUEST_URI=/unity/register/register/
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (59)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/05/11 15:09:17 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,allow,at_time) values (  "Mr.","asdf","asdf","",NOW()).
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (60)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/05/11 15:09:17 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,allow,at_time) values (  "Mr.","asdf","asdf","",NOW())' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php(60): CDbCommand->execute()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): RegisterController->actionRegister()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('register')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('register/regist...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/unity/register/register/
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/05/11 15:10:08 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,allow,at_time) values (  "Mr.","asdf","asdf","",NOW()).
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (60)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/05/11 15:10:08 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,allow,at_time) values (  "Mr.","asdf","asdf","",NOW())' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php(60): CDbCommand->execute()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): RegisterController->actionRegister()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('register')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('register/regist...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/unity/register/register/
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/05/11 15:16:02 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on,NOW())' at line 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,allow,at_time) values (  "Mr.","asdf","","",on,NOW()).
+in /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php (60)
+in /Applications/XAMPP/xamppfiles/htdocs/unity/index.php (13)
+2015/05/11 15:16:02 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'on,NOW())' at line 1. The SQL statement executed was: insert into mc_users (title,fname,lname,email,allow,at_time) values (  "Mr.","asdf","","",on,NOW())' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/unity/protected/controllers/RegisterController.php(60): CDbCommand->execute()
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/actions/CInlineAction.php(49): RegisterController->actionRegister()
+#2 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(282): CController->run('register')
+#6 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('register/regist...')
+#7 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/unity/register/register/
+HTTP_REFERER=http://localhost/unity/register
+---
+2015/05/11 15:18:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "getUserJson".' in /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('getUserJson')
+#1 /Applications/XAMPP/xamppfiles/htdocs/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/unity/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/unity/getUserJson
+---

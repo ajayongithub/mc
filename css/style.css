@@ -1,0 +1,59 @@
+body{background:#000}
+.main-div{position:absolute; left:0; width:100%; text-align:center; height:100%; display:table}
+.logo-main{display:table-cell; vertical-align:middle}
+.inner-form-fild{max-width:700px; margin:0 auto; padding:0 20px;}
+.inner-form-fild{font-family:'DINCondRegular',Arial, Helvetica, sans-serif; font-size:20px; color:#fff}
+.inner-form-fild .col-sm-4{text-align:left; text-transform:uppercase; line-height:40px; position:relative}
+.m-text{position:absolute; right:0; font-size:20px; color:#5b5c5d; text-transform:lowercase; top:0}
+.logo-small{display:inline-block; margin-bottom:70px;}
+.form-control{height:40px; font-size:22px; background:#dcdddf;}
+a.btn-arrow{color:#fff; text-decoration:none; background:url(../images/arrow-icon.png) no-repeat left center; padding-left:20px; text-transform:uppercase}
+
+button.btn-arrow{color:#fff; border:none; text-decoration:none; background:url(../images/arrow-icon.png) no-repeat left center; padding-left:20px; text-transform:uppercase}
+
+.form-div{max-width:600px; display:table-cell; vertical-align:middle}
+.reset-ac{position:absolute; right:10px; top:10px; font-family:'DINCondRegular',Arial, Helvetica, sans-serif; font-size:25px;}
+
+.main-div.active .logo-main{-webkit-animation: cssAnimation 1s ease;
+-moz-animation: cssAnimation 1s ease;
+-o-animation: cssAnimation 1s ease; }
+.thank-you-page{display:table-cell; vertical-align:middle; text-align:center; color:#fff; text-transform:uppercase;}
+
+.thank-you-page h1{font-size:28px;}
+
+ 
+.form-div .inner-form-fild,.form-div .second-logo{opacity:0} 
+.form-div.active .inner-form-fild{-webkit-animation: cssAnimation2 1s ease;
+-moz-animation: cssAnimation2 1s ease;
+-o-animation: cssAnimation2 1s ease; opacity:1;}
+
+.form-div.active .second-logo {
+-webkit-animation: cssAnimation 1s ease;
+-moz-animation: cssAnimation 1s ease;
+-o-animation: cssAnimation 1s ease; opacity:1;
+}
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: translateY(-100px); opacity:0}
+to { -webkit-transform: translateY(-0);opacity:1 }
+}
+@-moz-keyframes cssAnimation {
+from { -webkit-transform: translateY(-100px); opacity:0}
+to { -webkit-transform: translateY(-0);opacity:1 }
+}
+@-o-keyframes cssAnimation {
+from { -webkit-transform: translateY(-100px); opacity:0}
+to { -webkit-transform: translateY(-0);opacity:1 }
+}
+
+@-webkit-keyframes cssAnimation2 {
+from { -webkit-transform: translateY(300px);opacity:0 }
+to { -webkit-transform: translateY(-0);opacity:1 }
+}
+@-moz-keyframes cssAnimation2 {
+from { -webkit-transform: translateY(300px);opacity:0 }
+to { -webkit-transform: translateY(-0);opacity:1 }
+}
+@-o-keyframes cssAnimation2 {
+from { -webkit-transform: translateY(300px);opacity:0 }
+to { -webkit-transform: translateY(-0);opacity:1 }
+}
